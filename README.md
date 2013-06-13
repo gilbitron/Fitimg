@@ -1,7 +1,7 @@
 Fitimg
 ======
 
-Fitimg is a jQuery plugin to make images "fit" to their containers.
+Fitimg is a jQuery plugin to make images "fit" to their containers. [See the demo](http://dev7studios.com/demo/fitimg).
 
 Requirements
 ------------

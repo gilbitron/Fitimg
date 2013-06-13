@@ -1,0 +1,32 @@
+/*
+ * jQuery Fitimg v1.0
+ * http://dev7studios.com/fitimg
+ *
+ * Copyright 2013, Dev7studios
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+
+.fitimg { 
+	overflow: hidden; 
+	position: relative;
+}
+.fitimg img {
+	display: block;
+	min-width: 100%;
+	height: auto;
+	opacity: 0;
+	-webkit-transition: opacity 0.2s ease-in;
+	   -moz-transition: opacity 0.2s ease-in;
+	    -ms-transition: opacity 0.2s ease-in;
+	     -o-transition: opacity 0.2s ease-in;
+	        transition: opacity 0.2s ease-in;
+}
+.fitimg img.fitimg-loaded { opacity: 1; }
+.fitimg img.fitimg-height { min-height: 100%; }
+.fitimg img.fitimg-width { min-width: 100%; }
+.fitimg .fitimg-debug {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}

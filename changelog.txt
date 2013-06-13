@@ -1,0 +1,4 @@
+*** Fitimg Changelog ***
+
+2013.06.13 - version 1.0
+ * Initial release

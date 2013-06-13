@@ -17,11 +17,11 @@ Usage
 Include the scripts and styles in your HTML head:
 
 ```html
-<link rel="stylesheet" href="fitimg/jquery.fitimg.css" type="text/css" />
+<link rel="stylesheet" href="jquery.fitimg.css" type="text/css" />
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script src="imagesloaded.js"></script>
-<script src="fitimg/jquery.fitimg.js"></script>
+<script src="jquery.fitimg.js"></script>
 ```
 
 Then make sure your images have container divs wrapping them:

@@ -7,7 +7,7 @@
  * http://www.opensource.org/licenses/mit-license.php
  */
 
-if(typeof console=="undefined"){window.console={log:function(){}}} // Console IE fix
+if(typeof console=="undefined"){window.console={warn:function(){}}} // Console IE fix
 ;(function($, window, document, undefined) {
 
     var pluginName = 'fitimg',

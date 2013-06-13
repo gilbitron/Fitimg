@@ -3,6 +3,8 @@ Fitimg
 
 Fitimg is a jQuery plugin to make images "fit" to their containers. [See the demo](http://dev7studios.com/demo/fitimg).
 
+![Fitimg](http://cdn.dev7studios.com/fitimg/example.jpg)
+
 Requirements
 ------------
 
